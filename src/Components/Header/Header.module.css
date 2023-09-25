@@ -1,0 +1,19 @@
+.headerbg{
+  background-color: #F85606;
+}
+
+.menucolor{
+  color: white !important;
+  
+}
+
+.btn-bg{
+  background-color: #F97737;
+}
+
+@media only screen and (max-width: 600px) {
+  .full{
+    display: none !important;
+ }
+
+}

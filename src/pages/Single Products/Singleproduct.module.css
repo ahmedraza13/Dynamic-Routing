@@ -1,0 +1,11 @@
+.sincard{
+   
+  
+   display: flex ;
+   justify-content: center;
+   align-items: center;
+}
+
+.btn{
+  margin-left: 120px;
+}
